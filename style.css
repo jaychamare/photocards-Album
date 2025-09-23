@@ -39,8 +39,7 @@ section{
 }
 
 .sticky-cards{
-    /* background-color: #e3e3e3; */
-    background-color: orangered;
+    background-color: #e3e3e3;
 }
 
 .card{
@@ -80,5 +79,6 @@ section{
     .card{
         top: 30%;
         width: 75%;
+        left: 60%;
     }
 }
