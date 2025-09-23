@@ -39,13 +39,13 @@ section{
 }
 
 .sticky-cards{
-    background-color: #e3e3e3;
-    /* background-color: yellow; */
+    /* background-color: #e3e3e3; */
+    background-color: orangered;
 }
 
 .card{
     position: absolute;
-    top: 0%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     will-change: transform;
@@ -78,6 +78,7 @@ section{
 
 @media (max-width: 900px){
     .card{
+        top: 30%;
         width: 75%;
     }
 }
