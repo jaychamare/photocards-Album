@@ -76,8 +76,8 @@ section{
     font-size: 12px;
 }
 
-@media (max-width: 900px){
+/* @media (max-width: 900px){
     .card{
         width: 75%;
     }
-}
+} */
