@@ -75,7 +75,7 @@ section{
     font-size: 12px;
 }
 
-@media (max-width: 900px){
+@media (max-width: 1080px){
     .card{
         top: 30%;
         width: 75%;
