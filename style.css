@@ -78,6 +78,6 @@ section{
 @media (max-width: 1080px){
     .card{
         top: 50%;
-        width: 75%;
+        width: 50%;
     }
 }
